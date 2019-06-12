@@ -1,0 +1,22 @@
+body {
+    padding: 5px;
+    margin: 5px;
+    background: #ffd071;
+  }
+  h1{
+    text-align: center;
+  }
+  #new_burger{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #70361e;
+    padding: 10px;
+    text-align: center;
+  }
+  .form-control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
