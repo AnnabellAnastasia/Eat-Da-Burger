@@ -226,3 +226,6 @@ If you have any questions about this project or the material we have covered, pl
 When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
 
 **Good Luck!*****
+
+
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page. This application demonstrates a simple full stack application featuring the use of Node, Express server, MySQL and HTML templating using Handlebars.
